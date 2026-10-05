@@ -1,6 +1,6 @@
 services:
   - type: static
-    name: marvin-oclarino-portfolio
+    name: digital-portfolio-oclarino
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     routes:

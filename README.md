@@ -1,6 +1,6 @@
-# Marvin S. Oclarino Jr. — Digital Portfolio
+# Digital Portfolio Oclarino — Marvin S. Oclarino Jr.
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/brets60/digital-portfolio)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/brets60/digital-portfolio-oclarino)
 
 > A clean, authentic, and product-focused digital portfolio for **Marvin S. Oclarino Jr.** (BSIT Student & IoT / Embedded Systems Developer in the Philippines).
 
@@ -8,9 +8,9 @@
 
 ## 🚀 Live Demo & Deployment
 
-- **GitHub Repository**: [https://github.com/brets60/digital-portfolio](https://github.com/brets60/digital-portfolio)
+- **GitHub Repository**: [https://github.com/brets60/digital-portfolio-oclarino](https://github.com/brets60/digital-portfolio-oclarino)
 - **1-Click Deploy on Render**: Click the badge above or visit:
-  `https://render.com/deploy?repo=https://github.com/brets60/digital-portfolio`
+  `https://render.com/deploy?repo=https://github.com/brets60/digital-portfolio-oclarino`
 
 ---
 
@@ -38,8 +38,8 @@ An autonomous IoT smart road safety prototype designed to detect approaching veh
 
 ```powershell
 # Clone the repository
-git clone https://github.com/brets60/digital-portfolio.git
-cd digital-portfolio
+git clone https://github.com/brets60/digital-portfolio-oclarino.git
+cd digital-portfolio-oclarino
 
 # Install dependencies
 npm install
